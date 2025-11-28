@@ -9,7 +9,7 @@ This project explores how **modern data science and machine learning** can be us
 
 Instead of treating history as a collection of anecdotes, we treat it as a **system of interacting forces** that can be approximated mathematically and simulated computationally.
 
-A public explanation based on this work has accumulated **350,000+ views** on open platforms and has been **shared and endorsed by PhD-level academics**, as well as FAANG companies employers and Top CS Schools graduates(Standford...). which I see as early external validation that this approach is both rigorous and useful.
+A public explanation based on this work has accumulated **350,000+ views** on open platforms(like Quora) and has been **shared and endorsed by PhD-level academics**, as well as FAANG companies employers and Top CS Schools graduates(Standford...). which I see as early external validation that this approach is both rigorous and useful.
 
 ---
 
